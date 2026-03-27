@@ -60,3 +60,20 @@ Part of System Analysis & Design Lab for SBJ Hardware
 Focused on usability, accessibility, and responsive design
 
 
+
+<img width="1905" height="1065" alt="login page" src="https://github.com/user-attachments/assets/11a83f7d-607b-4fac-8388-474e9be9d142" />
+
+
+
+<img width="1902" height="1010" alt="iphone" src="https://github.com/user-attachments/assets/d2bb5e56-15f3-4b5d-a7d7-6de65110c996" />
+
+
+
+<img width="1907" height="1010" alt="samsung" src="https://github.com/user-attachments/assets/4f58c757-d32e-4dfb-8e49-a6b4abe4a08a" />
+
+
+<img width="1914" height="1006" alt="lighthouse" src="https://github.com/user-attachments/assets/ad31f019-a02f-4327-adc9-9e72ba69b8e1" />
+
+
+
+
